@@ -37,7 +37,7 @@ And can be displayed in 3 difference positions on-screen:
 To display a FabToast is extremely simple, and achieved in a single line of code. For example, to display a SUCCESS toast:
 
 ```java
-FabToast.makeText(context, "I'm a Fab toast", FabToast.SUCCESS, FabToast.LENGTH_LONG, FabToast.POSITION_DEFAULT).show();
+ FabToast.makeText(context, "I'm a Fab toast", FabToast.LENGTH_LONG, FabToast.SUCCESS,  FabToast.POSITION_DEFAULT).show();
 ```
 
 
