@@ -1,4 +1,7 @@
 # FabToast
+- min SDK 16 (Jelly Bean 4.1)<br />
+- written in Java
+
 ## Installation
 Add this into your root build.gradle file:
 
@@ -37,25 +40,25 @@ And can be displayed in 3 difference positions on-screen:
 To display a FabToast is extremely simple, and achieved in a single line of code. For example, to display a SUCCESS FabToast at the default position (Bottom):
 
 ```java
- FabToast.makeText(context, "I'm a Fab toast", FabToast.LENGTH_LONG, FabToast.SUCCESS,  FabToast.POSITION_DEFAULT).show();
+FabToast.makeText(context, "I'm a Fab toast", FabToast.LENGTH_LONG, FabToast.SUCCESS,  FabToast.POSITION_DEFAULT).show();
 ```
 
 to display a WARNING FabToast in the center of the screen:
 
 ```java
- FabToast.makeText(context, "I'm a Fab toast", FabToast.LENGTH_LONG, FabToast.WARNING,  FabToast.POSITION_CENTER).show();
+FabToast.makeText(context, "I'm a Fab toast", FabToast.LENGTH_LONG, FabToast.WARNING,  FabToast.POSITION_CENTER).show();
 ```
 
 to display an ERROR FabToast at the top of the screen:
 
 ```java
- FabToast.makeText(context, "I'm a Fab toast", FabToast.LENGTH_LONG, FabToast.ERROR,  FabToast.POSITION_TOP).show();
+FabToast.makeText(context, "I'm a Fab toast", FabToast.LENGTH_LONG, FabToast.ERROR,  FabToast.POSITION_TOP).show();
 ```
 
 to display an INFORMATION FabToast at the default position:
 
 ```java
- FabToast.makeText(context, "I'm a Fab toast", FabToast.LENGTH_LONG, FabToast.INFORMATION,  FabToast.POSITION_DEFAULT).show();
+FabToast.makeText(context, "I'm a Fab toast", FabToast.LENGTH_LONG, FabToast.INFORMATION,  FabToast.POSITION_DEFAULT).show();
 ```
 
 
