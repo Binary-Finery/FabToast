@@ -1,7 +1,9 @@
 # FabToast
-Customisable toast library for Android<br />
 - min SDK 16 (Jelly Bean 4.1)<br />
-- written in Java
+- written in Java<br />
+
+to download the demo app for this library from Google Playstore so you can see it in action click [here](https://play.google.com/store/apps/details?id=spencerstudios.com.fabtoastlibrarydemo)
+
 
 ## Installation
 Add this into your root build.gradle file:
