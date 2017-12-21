@@ -1,4 +1,5 @@
 # FabToast
+Customisable toast library for Android<br />
 - min SDK 16 (Jelly Bean 4.1)<br />
 - written in Java
 
