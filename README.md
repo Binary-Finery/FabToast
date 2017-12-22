@@ -1,4 +1,5 @@
 # FabToast
+[![](https://jitpack.io/v/Binary-Finery/FabToast.svg)](https://jitpack.io/#Binary-Finery/FabToast)
 - min SDK 16 (Jelly Bean 4.1)<br />
 - written in Java<br />
 
