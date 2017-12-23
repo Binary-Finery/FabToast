@@ -1,5 +1,7 @@
 # FabToast
 [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-FabToast-green.svg?style=flat )]( https://android-arsenal.com/details/1/6589 )
+
+[![](https://jitpack.io/v/Binary-Finery/FabToast.svg)](https://jitpack.io/#Binary-Finery/FabToast)
 - min SDK 16 (Jelly Bean 4.1)<br />
 - written in Java<br />
 
