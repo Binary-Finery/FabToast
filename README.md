@@ -1,9 +1,9 @@
 # FabToast
-[![](https://jitpack.io/v/Binary-Finery/FabToast.svg)](https://jitpack.io/#Binary-Finery/FabToast)
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-FabToast-green.svg?style=flat )]( https://android-arsenal.com/details/1/6589 )
 - min SDK 16 (Jelly Bean 4.1)<br />
 - written in Java<br />
 
-to download the demo app for this library from Google Playstore so you can see it in action click [here](https://play.google.com/store/apps/details?id=spencerstudios.com.fabtoastlibrarydemo)
+To download the demo app for this library from Google Playstore so you can see it in action, click [here](https://play.google.com/store/apps/details?id=spencerstudios.com.fabtoastlibrarydemo)
 
 
 ## Installation
