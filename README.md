@@ -37,13 +37,13 @@ FabToast has 4 different types:
 - ERROR
 - WARNING
 
-And can be displayed in 3 difference positions on-screen:
+And can be displayed in 3 different positions on-screen:
 
 - DEFAULT (bottom)
 - CENTER
 - TOP
 
-To display a FabToast is extremely simple, and achieved in a single line of code. For example, to display a SUCCESS FabToast at the default position (Bottom):
+To display a FabToast is extremely simple, and achieved in a single line of code. For example, to display a SUCCESS FabToast at the default position (bottom):
 
 ```java
 FabToast.makeText(context, "I'm a Fab toast", FabToast.LENGTH_LONG, FabToast.SUCCESS,  FabToast.POSITION_DEFAULT).show();
